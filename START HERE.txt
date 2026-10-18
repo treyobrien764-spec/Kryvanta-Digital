@@ -1,0 +1,11 @@
+KRYVANTA DIGITAL -- WEBSITE PACKAGE
+
+1) Right-click this ZIP and select EXTRACT ALL.
+2) Open the extracted Kryvanta-V5 folder.
+3) Double-click index.html, or drag it into Chrome.
+4) Click Portfolio to view the scrollable portfolio and all category filters.
+
+IMPORTANT: Keep index.html, CSS, JS, and assets together in the extracted folder.
+A separate self-contained HTML preview file is also available in your chat.
+
+NOTE: Portfolio concepts are not claimed past customers. The form requires hosting configuration.

@@ -1,0 +1,1452 @@
+[
+  {
+    "id": 1,
+    "cat": "Construction",
+    "name": "Westhaven Build Group",
+    "headline": "Spaces worth building.",
+    "tag": "Custom homes \u00b7 Renovations",
+    "slug": "westhaven-build-group",
+    "palette": [
+      11,
+      9,
+      1
+    ],
+    "photo": 0,
+    "photo2": 8,
+    "layout": 0,
+    "photo_key": "b06",
+    "photo2_key": "a00",
+    "custom_layout": 0,
+    "custom_theme": [
+      "#12090A",
+      "#FD3E35",
+      "#FFE1C5",
+      "#8A1D16"
+    ]
+  },
+  {
+    "id": 2,
+    "cat": "Construction",
+    "name": "Ironvale Constructors",
+    "headline": "Built bold. Built better.",
+    "tag": "Commercial & Residential Builds",
+    "slug": "ironvale-constructors",
+    "palette": [
+      23,
+      6,
+      16
+    ],
+    "photo": 8,
+    "photo2": 16,
+    "layout": 10,
+    "photo_key": "a00",
+    "photo2_key": "a08",
+    "custom_layout": 1,
+    "custom_theme": [
+      "#131A20",
+      "#A8D4EE",
+      "#FFF8D5",
+      "#4B6D8C"
+    ]
+  },
+  {
+    "id": 3,
+    "cat": "Construction",
+    "name": "North & Oak Builders",
+    "headline": "A better way to build.",
+    "tag": "Design Build Studio",
+    "slug": "north-oak-builders",
+    "palette": [
+      4,
+      14,
+      3
+    ],
+    "photo": 16,
+    "photo2": 22,
+    "layout": 2,
+    "photo_key": "a08",
+    "photo2_key": "b06",
+    "custom_layout": 3,
+    "custom_theme": [
+      "#20200B",
+      "#B7DF6B",
+      "#F6F7D9",
+      "#686A37"
+    ]
+  },
+  {
+    "id": 4,
+    "cat": "Roofing",
+    "name": "Crownpoint Roofing",
+    "headline": "Above the ordinary.",
+    "tag": "Roof Replacement & Restoration",
+    "slug": "crownpoint-roofing",
+    "palette": [
+      2,
+      18,
+      13
+    ],
+    "photo": 1,
+    "photo2": 9,
+    "layout": 3,
+    "photo_key": "b02",
+    "photo2_key": "a01",
+    "custom_layout": 5,
+    "custom_theme": [
+      "#061A30",
+      "#1BB6FF",
+      "#E6F9FF",
+      "#1267C9"
+    ]
+  },
+  {
+    "id": 5,
+    "cat": "Roofing",
+    "name": "Highmark Roof Co.",
+    "headline": "Protection built to last.",
+    "tag": "Storm Damage & Roofing",
+    "slug": "highmark-roof-co",
+    "palette": [
+      0,
+      5,
+      1
+    ],
+    "photo": 9,
+    "photo2": 17,
+    "layout": 13,
+    "photo_key": "a01",
+    "photo2_key": "a09",
+    "custom_layout": 8,
+    "custom_theme": [
+      "#1B092A",
+      "#7AFFF0",
+      "#EBE0FF",
+      "#4F2C83"
+    ]
+  },
+  {
+    "id": 6,
+    "cat": "HVAC",
+    "name": "Royal Comfort Heating",
+    "headline": "Comfort you can count on.",
+    "tag": "Heating, Cooling & Air",
+    "slug": "royal-comfort-heating",
+    "palette": [
+      3,
+      0,
+      17
+    ],
+    "photo": 2,
+    "photo2": 10,
+    "layout": 17,
+    "photo_key": "b03",
+    "photo2_key": "a02",
+    "custom_layout": 10,
+    "custom_theme": [
+      "#0C1C11",
+      "#7AD45B",
+      "#FFF1D8",
+      "#236443"
+    ]
+  },
+  {
+    "id": 7,
+    "cat": "HVAC",
+    "name": "ArcticOne Climate Co.",
+    "headline": "Perfect air. Any season.",
+    "tag": "Comfort Systems & Services",
+    "slug": "arcticone-climate-co",
+    "palette": [
+      20,
+      6,
+      9
+    ],
+    "photo": 10,
+    "photo2": 18,
+    "layout": 9,
+    "photo_key": "a02",
+    "photo2_key": "a10",
+    "custom_layout": 11,
+    "custom_theme": [
+      "#051E1F",
+      "#3FE7BD",
+      "#DEFFF4",
+      "#168B80"
+    ]
+  },
+  {
+    "id": 8,
+    "cat": "Plumbing",
+    "name": "ApexFlow Plumbing",
+    "headline": "We keep life flowing.",
+    "tag": "Plumbing & Drain Experts",
+    "slug": "apexflow-plumbing",
+    "palette": [
+      12,
+      0,
+      3
+    ],
+    "photo": 3,
+    "photo2": 11,
+    "layout": 13,
+    "photo_key": "b04",
+    "photo2_key": "a03",
+    "custom_layout": 13,
+    "custom_theme": [
+      "#091B23",
+      "#78E2F1",
+      "#EAFCFB",
+      "#294C74"
+    ]
+  },
+  {
+    "id": 9,
+    "cat": "Plumbing",
+    "name": "Copperfield Plumbing",
+    "headline": "Good people. Great plumbing.",
+    "tag": "Residential & Commercial",
+    "slug": "copperfield-plumbing",
+    "palette": [
+      7,
+      21,
+      4
+    ],
+    "photo": 11,
+    "photo2": 19,
+    "layout": 5,
+    "photo_key": "a03",
+    "photo2_key": "a11",
+    "custom_layout": 0,
+    "custom_theme": [
+      "#12090A",
+      "#FD3E35",
+      "#FFE1C5",
+      "#8A1D16"
+    ]
+  },
+  {
+    "id": 10,
+    "cat": "Auto Detailing",
+    "name": "Onyx Auto Atelier",
+    "headline": "The art of the finish.",
+    "tag": "Premium Detailing & Coatings",
+    "slug": "onyx-auto-atelier",
+    "palette": [
+      0,
+      22,
+      6
+    ],
+    "photo": 4,
+    "photo2": 5,
+    "layout": 9,
+    "photo_key": "b09",
+    "photo2_key": "a04",
+    "custom_layout": 2,
+    "custom_theme": [
+      "#111128",
+      "#FF4F42",
+      "#F5F2FF",
+      "#4436AA"
+    ]
+  },
+  {
+    "id": 11,
+    "cat": "Auto Detailing",
+    "name": "Vivid Motion Detail",
+    "headline": "Every detail matters.",
+    "tag": "Auto Spa \u00b7 Paint Correction",
+    "slug": "vivid-motion-detail",
+    "palette": [
+      1,
+      14,
+      20
+    ],
+    "photo": 5,
+    "photo2": 12,
+    "layout": 1,
+    "photo_key": "a04",
+    "photo2_key": "a05",
+    "custom_layout": 4,
+    "custom_theme": [
+      "#29111A",
+      "#FB8F7B",
+      "#FCE6F5",
+      "#A34442"
+    ]
+  },
+  {
+    "id": 12,
+    "cat": "Lawn Care",
+    "name": "Freshline Lawn Co.",
+    "headline": "Good lawns. Great living.",
+    "tag": "Lawncare & Landscaping",
+    "slug": "freshline-lawn-co",
+    "palette": [
+      7,
+      14,
+      3
+    ],
+    "photo": 6,
+    "photo2": 14,
+    "layout": 5,
+    "photo_key": "b11",
+    "photo2_key": "a06",
+    "custom_layout": 5,
+    "custom_theme": [
+      "#061A30",
+      "#1BB6FF",
+      "#E6F9FF",
+      "#1267C9"
+    ]
+  },
+  {
+    "id": 13,
+    "cat": "Lawn Care",
+    "name": "Evergreen Turfworks",
+    "headline": "Your outdoors, upgraded.",
+    "tag": "Full-Service Lawn Maintenance",
+    "slug": "evergreen-turfworks",
+    "palette": [
+      16,
+      10,
+      1
+    ],
+    "photo": 14,
+    "photo2": 22,
+    "layout": 15,
+    "photo_key": "a06",
+    "photo2_key": "b11",
+    "custom_layout": 8,
+    "custom_theme": [
+      "#241018",
+      "#E9B9C8",
+      "#FAE6DB",
+      "#7F3B57"
+    ]
+  },
+  {
+    "id": 14,
+    "cat": "House Cleaning",
+    "name": "Bloom & Shine Home",
+    "headline": "Come home to clean.",
+    "tag": "Residential Home Cleaning",
+    "slug": "bloom-shine-home",
+    "palette": [
+      15,
+      8,
+      21
+    ],
+    "photo": 7,
+    "photo2": 15,
+    "layout": 1,
+    "photo_key": "b12",
+    "photo2_key": "a07",
+    "custom_layout": 10,
+    "custom_theme": [
+      "#16122B",
+      "#5E88FF",
+      "#E0F1F7",
+      "#6B31AD"
+    ]
+  },
+  {
+    "id": 15,
+    "cat": "House Cleaning",
+    "name": "NeatNest Cleaning Co.",
+    "headline": "Fresh looks good on you.",
+    "tag": "Routine & Deep Cleaning",
+    "slug": "neatnest-cleaning-co",
+    "palette": [
+      4,
+      11,
+      18
+    ],
+    "photo": 15,
+    "photo2": 23,
+    "layout": 11,
+    "photo_key": "a07",
+    "photo2_key": "b12",
+    "custom_layout": 12,
+    "custom_theme": [
+      "#051E1F",
+      "#3FE7BD",
+      "#DEFFF4",
+      "#168B80"
+    ]
+  },
+  {
+    "id": 16,
+    "cat": "Junk Removal",
+    "name": "Loadout Junk Pros",
+    "headline": "We haul. You relax.",
+    "tag": "Junk Pickup & Hauling",
+    "slug": "loadout-junk-pros",
+    "palette": [
+      10,
+      14,
+      21
+    ],
+    "photo": 12,
+    "photo2": 22,
+    "layout": 15,
+    "photo_key": "b01",
+    "photo2_key": "b01",
+    "custom_layout": 14,
+    "custom_theme": [
+      "#1B1720",
+      "#CF99FF",
+      "#F4DDFA",
+      "#6A3D7D"
+    ]
+  },
+  {
+    "id": 17,
+    "cat": "Junk Removal",
+    "name": "Monster Haul Co.",
+    "headline": "Clutter ends here.",
+    "tag": "Fast, Friendly Junk Removal",
+    "slug": "monster-haul-co",
+    "palette": [
+      0,
+      17,
+      2
+    ],
+    "photo": 22,
+    "photo2": 16,
+    "layout": 7,
+    "photo_key": "b01",
+    "photo2_key": "b01",
+    "custom_layout": 0,
+    "custom_theme": [
+      "#071D17",
+      "#A4EF43",
+      "#DBFED5",
+      "#225B32"
+    ]
+  },
+  {
+    "id": 18,
+    "cat": "Fencing",
+    "name": "Copperpost Fencing",
+    "headline": "Boundaries, beautifully built.",
+    "tag": "Fences \u00b7 Gates \u00b7 Outdoor",
+    "slug": "copperpost-fencing",
+    "palette": [
+      1,
+      4,
+      11
+    ],
+    "photo": 8,
+    "photo2": 22,
+    "layout": 11,
+    "photo_key": "b07",
+    "photo2_key": "b07",
+    "custom_layout": 2,
+    "custom_theme": [
+      "#111128",
+      "#FF4F42",
+      "#F5F2FF",
+      "#4436AA"
+    ]
+  },
+  {
+    "id": 19,
+    "cat": "Fencing",
+    "name": "Forge Fenceworks",
+    "headline": "Made to stand strong.",
+    "tag": "Residential Fence Systems",
+    "slug": "forge-fenceworks",
+    "palette": [
+      18,
+      9,
+      20
+    ],
+    "photo": 22,
+    "photo2": 0,
+    "layout": 3,
+    "photo_key": "b07",
+    "photo2_key": "b07",
+    "custom_layout": 4,
+    "custom_theme": [
+      "#0C1826",
+      "#FF883B",
+      "#F5F0E9",
+      "#205F94"
+    ]
+  },
+  {
+    "id": 20,
+    "cat": "Foundation Repair",
+    "name": "Bedrock Structural",
+    "headline": "Strong starts below.",
+    "tag": "Foundation & Basement Repair",
+    "slug": "bedrock-structural",
+    "palette": [
+      14,
+      0,
+      7
+    ],
+    "photo": 8,
+    "photo2": 16,
+    "layout": 7,
+    "photo_key": "b06",
+    "photo2_key": "a08",
+    "custom_layout": 6,
+    "custom_theme": [
+      "#211028",
+      "#DC7FFF",
+      "#FCDAFF",
+      "#7041CC"
+    ]
+  },
+  {
+    "id": 21,
+    "cat": "Foundation Repair",
+    "name": "Anchorpoint Foundations",
+    "headline": "Confidence from the ground up.",
+    "tag": "Foundation Repair Specialists",
+    "slug": "anchorpoint-foundations",
+    "palette": [
+      6,
+      3,
+      15
+    ],
+    "photo": 16,
+    "photo2": 22,
+    "layout": 17,
+    "photo_key": "a08",
+    "photo2_key": "b06",
+    "custom_layout": 9,
+    "custom_theme": [
+      "#241018",
+      "#E9B9C8",
+      "#FAE6DB",
+      "#7F3B57"
+    ]
+  },
+  {
+    "id": 22,
+    "cat": "Concrete",
+    "name": "Trueform Concrete",
+    "headline": "Built on solid ground.",
+    "tag": "Driveways \u00b7 Patios \u00b7 Flatwork",
+    "slug": "trueform-concrete",
+    "palette": [
+      21,
+      4,
+      2
+    ],
+    "photo": 0,
+    "photo2": 8,
+    "layout": 3,
+    "photo_key": "b15",
+    "photo2_key": "b15",
+    "custom_layout": 10,
+    "custom_theme": [
+      "#1D1909",
+      "#D5AD4E",
+      "#F0E4C4",
+      "#726028"
+    ]
+  },
+  {
+    "id": 23,
+    "cat": "Concrete",
+    "name": "Stonecast Concrete Co.",
+    "headline": "Concrete with character.",
+    "tag": "Decorative & Structural Concrete",
+    "slug": "stonecast-concrete-co",
+    "palette": [
+      5,
+      12,
+      13
+    ],
+    "photo": 8,
+    "photo2": 22,
+    "layout": 13,
+    "photo_key": "b15",
+    "photo2_key": "b15",
+    "custom_layout": 12,
+    "custom_theme": [
+      "#260D25",
+      "#FF7190",
+      "#F9D9D1",
+      "#B72D81"
+    ]
+  },
+  {
+    "id": 24,
+    "cat": "Painting",
+    "name": "Colorwell Paintworks",
+    "headline": "Give every wall a wow.",
+    "tag": "Interior & Exterior Painting",
+    "slug": "colorwell-paintworks",
+    "palette": [
+      17,
+      13,
+      16
+    ],
+    "photo": 7,
+    "photo2": 15,
+    "layout": 17,
+    "photo_key": "a08",
+    "photo2_key": "b06",
+    "custom_layout": 14,
+    "custom_theme": [
+      "#1B1720",
+      "#CF99FF",
+      "#F4DDFA",
+      "#6A3D7D"
+    ]
+  },
+  {
+    "id": 25,
+    "cat": "Painting",
+    "name": "Brush & Beam Studio",
+    "headline": "The color changes everything.",
+    "tag": "Fine Painting & Finishes",
+    "slug": "brush-beam-studio",
+    "palette": [
+      4,
+      8,
+      14
+    ],
+    "photo": 15,
+    "photo2": 23,
+    "layout": 9,
+    "photo_key": "b06",
+    "photo2_key": "a08",
+    "custom_layout": 1,
+    "custom_theme": [
+      "#121333",
+      "#F95B7D",
+      "#FFF2CB",
+      "#5D48F4"
+    ]
+  },
+  {
+    "id": 26,
+    "cat": "Flooring",
+    "name": "Grain & Ground",
+    "headline": "Flooring, reimagined.",
+    "tag": "Hardwood \u00b7 Luxury Vinyl \u00b7 Tile",
+    "slug": "grain-ground",
+    "palette": [
+      16,
+      21,
+      11
+    ],
+    "photo": 7,
+    "photo2": 15,
+    "layout": 13,
+    "photo_key": "a07",
+    "photo2_key": "a15",
+    "custom_layout": 3,
+    "custom_theme": [
+      "#251109",
+      "#FFD16A",
+      "#FFF4DD",
+      "#D35522"
+    ]
+  },
+  {
+    "id": 27,
+    "cat": "Flooring",
+    "name": "TerraStep Flooring",
+    "headline": "Beautiful from the floor up.",
+    "tag": "Premium Flooring Studio",
+    "slug": "terrastep-flooring",
+    "palette": [
+      2,
+      4,
+      7
+    ],
+    "photo": 15,
+    "photo2": 23,
+    "layout": 5,
+    "photo_key": "a15",
+    "photo2_key": "a07",
+    "custom_layout": 4,
+    "custom_theme": [
+      "#0C1826",
+      "#FF883B",
+      "#F5F0E9",
+      "#205F94"
+    ]
+  },
+  {
+    "id": 28,
+    "cat": "Remodeling",
+    "name": "Formhouse Renovations",
+    "headline": "Live in the extraordinary.",
+    "tag": "Home Remodeling Studio",
+    "slug": "formhouse-renovations",
+    "palette": [
+      7,
+      9,
+      1
+    ],
+    "photo": 7,
+    "photo2": 8,
+    "layout": 9,
+    "photo_key": "a07",
+    "photo2_key": "a00",
+    "custom_layout": 6,
+    "custom_theme": [
+      "#17170A",
+      "#E8FF3B",
+      "#FFEFCC",
+      "#6F7E1A"
+    ]
+  },
+  {
+    "id": 29,
+    "cat": "Remodeling",
+    "name": "Modern Habitat Co.",
+    "headline": "Reimagine your everyday.",
+    "tag": "Whole Home Renovations",
+    "slug": "modern-habitat-co",
+    "palette": [
+      11,
+      20,
+      18
+    ],
+    "photo": 8,
+    "photo2": 16,
+    "layout": 1,
+    "photo_key": "a00",
+    "photo2_key": "a07",
+    "custom_layout": 9,
+    "custom_theme": [
+      "#071A3B",
+      "#F6A927",
+      "#FCF2DE",
+      "#1C61BE"
+    ]
+  },
+  {
+    "id": 30,
+    "cat": "Kitchen & Bath",
+    "name": "Maison Kitchen & Bath",
+    "headline": "Made for the way you live.",
+    "tag": "Kitchen & Bath Design",
+    "slug": "maison-kitchen-bath",
+    "palette": [
+      18,
+      12,
+      22
+    ],
+    "photo": 19,
+    "photo2": 11,
+    "layout": 5,
+    "photo_key": "a11",
+    "photo2_key": "a07",
+    "custom_layout": 11,
+    "custom_theme": [
+      "#1D1909",
+      "#D5AD4E",
+      "#F0E4C4",
+      "#726028"
+    ]
+  },
+  {
+    "id": 31,
+    "cat": "Kitchen & Bath",
+    "name": "Bathworks Collective",
+    "headline": "Everyday, elevated.",
+    "tag": "Luxury Baths & Kitchens",
+    "slug": "bathworks-collective",
+    "palette": [
+      4,
+      16,
+      9
+    ],
+    "photo": 11,
+    "photo2": 7,
+    "layout": 15,
+    "photo_key": "a07",
+    "photo2_key": "a11",
+    "custom_layout": 13,
+    "custom_theme": [
+      "#0D111C",
+      "#FDCE6A",
+      "#F5F1E2",
+      "#986B2A"
+    ]
+  },
+  {
+    "id": 32,
+    "cat": "Electrical",
+    "name": "Voltica Electric",
+    "headline": "Powering what matters.",
+    "tag": "Residential & Commercial Electric",
+    "slug": "voltica-electric",
+    "palette": [
+      3,
+      2,
+      1
+    ],
+    "photo": 2,
+    "photo2": 10,
+    "layout": 1,
+    "photo_key": "b05",
+    "photo2_key": "b05",
+    "custom_layout": 14,
+    "custom_theme": [
+      "#07241E",
+      "#F2B967",
+      "#F7F2D9",
+      "#2E826E"
+    ]
+  },
+  {
+    "id": 33,
+    "cat": "Electrical",
+    "name": "BrightCircuit Electric",
+    "headline": "Ready for what is next.",
+    "tag": "Lighting \u00b7 Wiring \u00b7 Service",
+    "slug": "brightcircuit-electric",
+    "palette": [
+      20,
+      11,
+      17
+    ],
+    "photo": 10,
+    "photo2": 18,
+    "layout": 11,
+    "photo_key": "b05",
+    "photo2_key": "b05",
+    "custom_layout": 1,
+    "custom_theme": [
+      "#121333",
+      "#F95B7D",
+      "#FFF2CB",
+      "#5D48F4"
+    ]
+  },
+  {
+    "id": 34,
+    "cat": "Pest Control",
+    "name": "PestGuard North",
+    "headline": "Your home. Protected.",
+    "tag": "Reliable Pest Management",
+    "slug": "pestguard-north",
+    "palette": [
+      13,
+      2,
+      8
+    ],
+    "photo": 6,
+    "photo2": 14,
+    "layout": 15,
+    "photo_key": "b11",
+    "photo2_key": "a06",
+    "custom_layout": 3,
+    "custom_theme": [
+      "#062020",
+      "#D5F752",
+      "#F5FFE7",
+      "#106666"
+    ]
+  },
+  {
+    "id": 35,
+    "cat": "Pest Control",
+    "name": "ClearNest Pest Solutions",
+    "headline": "Pests out. Peace in.",
+    "tag": "Local Pest Care",
+    "slug": "clearnest-pest-solutions",
+    "palette": [
+      14,
+      10,
+      18
+    ],
+    "photo": 14,
+    "photo2": 22,
+    "layout": 7,
+    "photo_key": "a06",
+    "photo2_key": "b11",
+    "custom_layout": 5,
+    "custom_theme": [
+      "#210E12",
+      "#FFDD25",
+      "#FFF9D8",
+      "#AA3434"
+    ]
+  },
+  {
+    "id": 36,
+    "cat": "Pressure Washing",
+    "name": "Jetstream Exterior Care",
+    "headline": "Clean hits different.",
+    "tag": "Exterior Washing & Restoration",
+    "slug": "jetstream-exterior-care",
+    "palette": [
+      6,
+      15,
+      1
+    ],
+    "photo": 8,
+    "photo2": 22,
+    "layout": 11,
+    "photo_key": "b08",
+    "photo2_key": "b08",
+    "custom_layout": 7,
+    "custom_theme": [
+      "#17170A",
+      "#E8FF3B",
+      "#FFEFCC",
+      "#6F7E1A"
+    ]
+  },
+  {
+    "id": 37,
+    "cat": "Pressure Washing",
+    "name": "RenewWash Co.",
+    "headline": "Bring back the shine.",
+    "tag": "Power & Soft Washing",
+    "slug": "renewwash-co",
+    "palette": [
+      12,
+      13,
+      19
+    ],
+    "photo": 22,
+    "photo2": 16,
+    "layout": 3,
+    "photo_key": "b08",
+    "photo2_key": "b08",
+    "custom_layout": 9,
+    "custom_theme": [
+      "#200F15",
+      "#FE6753",
+      "#F1D1BE",
+      "#78213B"
+    ]
+  },
+  {
+    "id": 38,
+    "cat": "Tree Service",
+    "name": "Canopy Tree Company",
+    "headline": "Better care for every tree.",
+    "tag": "Expert Tree Care & Removal",
+    "slug": "canopy-tree-company",
+    "palette": [
+      7,
+      11,
+      6
+    ],
+    "photo": 14,
+    "photo2": 6,
+    "layout": 7,
+    "photo_key": "b10",
+    "photo2_key": "b10",
+    "custom_layout": 11,
+    "custom_theme": [
+      "#191022",
+      "#FD8F3E",
+      "#FDF0D5",
+      "#A33A96"
+    ]
+  },
+  {
+    "id": 39,
+    "cat": "Tree Service",
+    "name": "Timberline Arbor Co.",
+    "headline": "Grounded in great service.",
+    "tag": "Arborist & Storm Response",
+    "slug": "timberline-arbor-co",
+    "palette": [
+      1,
+      3,
+      22
+    ],
+    "photo": 6,
+    "photo2": 22,
+    "layout": 17,
+    "photo_key": "b10",
+    "photo2_key": "b10",
+    "custom_layout": 13,
+    "custom_theme": [
+      "#0D111C",
+      "#FDCE6A",
+      "#F5F1E2",
+      "#986B2A"
+    ]
+  },
+  {
+    "id": 40,
+    "cat": "Landscaping",
+    "name": "Wildroot Landscape Studio",
+    "headline": "Outside the ordinary.",
+    "tag": "Outdoor Spaces & Gardens",
+    "slug": "wildroot-landscape-studio",
+    "palette": [
+      13,
+      1,
+      6
+    ],
+    "photo": 14,
+    "photo2": 6,
+    "layout": 3,
+    "photo_key": "a14",
+    "photo2_key": "b11",
+    "custom_layout": 15,
+    "custom_theme": [
+      "#1E3926",
+      "#C5EF77",
+      "#E4FFD4",
+      "#7BB891"
+    ]
+  },
+  {
+    "id": 41,
+    "cat": "Landscaping",
+    "name": "Field & Form Landscapes",
+    "headline": "Nature, shaped with intention.",
+    "tag": "Landscape Architecture",
+    "slug": "field-form-landscapes",
+    "palette": [
+      4,
+      8,
+      7
+    ],
+    "photo": 6,
+    "photo2": 22,
+    "layout": 13,
+    "photo_key": "b11",
+    "photo2_key": "a14",
+    "custom_layout": 2,
+    "custom_theme": [
+      "#152B25",
+      "#F4B26B",
+      "#EEF7CC",
+      "#51956E"
+    ]
+  },
+  {
+    "id": 42,
+    "cat": "Pool Service",
+    "name": "Bluewater Pool Co.",
+    "headline": "Your better days start here.",
+    "tag": "Pool Care & Maintenance",
+    "slug": "bluewater-pool-co",
+    "palette": [
+      12,
+      8,
+      4
+    ],
+    "photo": 0,
+    "photo2": 22,
+    "layout": 17,
+    "photo_key": "b13",
+    "photo2_key": "b13",
+    "custom_layout": 3,
+    "custom_theme": [
+      "#062020",
+      "#D5F752",
+      "#F5FFE7",
+      "#106666"
+    ]
+  },
+  {
+    "id": 43,
+    "cat": "Pool Service",
+    "name": "Tidal Poolworks",
+    "headline": "Clear water. Pure freedom.",
+    "tag": "Cleaning \u00b7 Repairs \u00b7 Pools",
+    "slug": "tidal-poolworks",
+    "palette": [
+      17,
+      21,
+      1
+    ],
+    "photo": 22,
+    "photo2": 7,
+    "layout": 9,
+    "photo_key": "b13",
+    "photo2_key": "b13",
+    "custom_layout": 5,
+    "custom_theme": [
+      "#0C1C11",
+      "#7AD45B",
+      "#FFF1D8",
+      "#236443"
+    ]
+  },
+  {
+    "id": 44,
+    "cat": "Garage Doors",
+    "name": "Liftline Door Co.",
+    "headline": "Open to better service.",
+    "tag": "Garage Doors & Repair",
+    "slug": "liftline-door-co",
+    "palette": [
+      0,
+      12,
+      5
+    ],
+    "photo": 8,
+    "photo2": 16,
+    "layout": 13,
+    "photo_key": "b08",
+    "photo2_key": "b06",
+    "custom_layout": 7,
+    "custom_theme": [
+      "#221511",
+      "#FF783D",
+      "#FFF1D7",
+      "#A24223"
+    ]
+  },
+  {
+    "id": 45,
+    "cat": "Garage Doors",
+    "name": "ModernGate Systems",
+    "headline": "The entrance matters.",
+    "tag": "Garage & Entry Solutions",
+    "slug": "moderngate-systems",
+    "palette": [
+      6,
+      10,
+      2
+    ],
+    "photo": 16,
+    "photo2": 22,
+    "layout": 5,
+    "photo_key": "b06",
+    "photo2_key": "b08",
+    "custom_layout": 10,
+    "custom_theme": [
+      "#200F15",
+      "#FE6753",
+      "#F1D1BE",
+      "#78213B"
+    ]
+  },
+  {
+    "id": 46,
+    "cat": "Insulation",
+    "name": "ThermaNest Insulation",
+    "headline": "Comfort starts inside.",
+    "tag": "Efficiency \u00b7 Attic \u00b7 Insulation",
+    "slug": "thermanest-insulation",
+    "palette": [
+      1,
+      18,
+      7
+    ],
+    "photo": 7,
+    "photo2": 15,
+    "layout": 9,
+    "photo_key": "b06",
+    "photo2_key": "a07",
+    "custom_layout": 12,
+    "custom_theme": [
+      "#12090A",
+      "#FD3E35",
+      "#FFE1C5",
+      "#8A1D16"
+    ]
+  },
+  {
+    "id": 47,
+    "cat": "Insulation",
+    "name": "Envelope Energy Co.",
+    "headline": "Smarter comfort, built in.",
+    "tag": "Home Energy & Insulation",
+    "slug": "envelope-energy-co",
+    "palette": [
+      14,
+      5,
+      16
+    ],
+    "photo": 15,
+    "photo2": 23,
+    "layout": 1,
+    "photo_key": "a07",
+    "photo2_key": "b06",
+    "custom_layout": 13,
+    "custom_theme": [
+      "#131A20",
+      "#A8D4EE",
+      "#FFF8D5",
+      "#4B6D8C"
+    ]
+  },
+  {
+    "id": 48,
+    "cat": "Solar",
+    "name": "Solera Solar Group",
+    "headline": "Power your tomorrow.",
+    "tag": "Residential Solar Systems",
+    "slug": "solera-solar-group",
+    "palette": [
+      10,
+      0,
+      21
+    ],
+    "photo": 0,
+    "photo2": 8,
+    "layout": 5,
+    "photo_key": "b14",
+    "photo2_key": "b14",
+    "custom_layout": 15,
+    "custom_theme": [
+      "#20200B",
+      "#B7DF6B",
+      "#F6F7D9",
+      "#686A37"
+    ]
+  },
+  {
+    "id": 49,
+    "cat": "Solar",
+    "name": "Sunspire Energy",
+    "headline": "Own your energy.",
+    "tag": "Solar & Energy Storage",
+    "slug": "sunspire-energy",
+    "palette": [
+      3,
+      9,
+      14
+    ],
+    "photo": 8,
+    "photo2": 16,
+    "layout": 15,
+    "photo_key": "b14",
+    "photo2_key": "b14",
+    "custom_layout": 2,
+    "custom_theme": [
+      "#061A30",
+      "#1BB6FF",
+      "#E6F9FF",
+      "#1267C9"
+    ]
+  },
+  {
+    "id": 50,
+    "cat": "Windows & Doors",
+    "name": "VistaFrame Windows",
+    "headline": "See the difference.",
+    "tag": "Windows, Doors & Installation",
+    "slug": "vistaframe-windows",
+    "palette": [
+      8,
+      10,
+      3
+    ],
+    "photo": 7,
+    "photo2": 8,
+    "layout": 1,
+    "photo_key": "a00",
+    "photo2_key": "a07",
+    "custom_layout": 4,
+    "custom_theme": [
+      "#1B092A",
+      "#7AFFF0",
+      "#EBE0FF",
+      "#4F2C83"
+    ]
+  },
+  {
+    "id": 51,
+    "cat": "Windows & Doors",
+    "name": "Clearview Entry Co.",
+    "headline": "Open to something beautiful.",
+    "tag": "Entry Systems & Glazing",
+    "slug": "clearview-entry-co",
+    "palette": [
+      4,
+      20,
+      12
+    ],
+    "photo": 8,
+    "photo2": 16,
+    "layout": 11,
+    "photo_key": "a07",
+    "photo2_key": "a00",
+    "custom_layout": 6,
+    "custom_theme": [
+      "#0C1C11",
+      "#7AD45B",
+      "#FFF1D8",
+      "#236443"
+    ]
+  },
+  {
+    "id": 52,
+    "cat": "Moving",
+    "name": "MoveHaus Logistics",
+    "headline": "Moving made effortless.",
+    "tag": "Local & Long-Distance Moving",
+    "slug": "movehaus-logistics",
+    "palette": [
+      3,
+      14,
+      2
+    ],
+    "photo": 22,
+    "photo2": 16,
+    "layout": 15,
+    "photo_key": "b01",
+    "photo2_key": "b01",
+    "custom_layout": 7,
+    "custom_theme": [
+      "#051E1F",
+      "#3FE7BD",
+      "#DEFFF4",
+      "#168B80"
+    ]
+  },
+  {
+    "id": 53,
+    "cat": "Moving",
+    "name": "BlueCrate Moving Co.",
+    "headline": "Your next move starts here.",
+    "tag": "Professional Movers",
+    "slug": "bluecrate-moving-co",
+    "palette": [
+      17,
+      0,
+      4
+    ],
+    "photo": 16,
+    "photo2": 0,
+    "layout": 7,
+    "photo_key": "b01",
+    "photo2_key": "b01",
+    "custom_layout": 10,
+    "custom_theme": [
+      "#091B23",
+      "#78E2F1",
+      "#EAFCFB",
+      "#294C74"
+    ]
+  },
+  {
+    "id": 54,
+    "cat": "Towing",
+    "name": "Redline Recovery Co.",
+    "headline": "Here when it matters.",
+    "tag": "24-Hour Towing & Recovery",
+    "slug": "redline-recovery-co",
+    "palette": [
+      0,
+      18,
+      8
+    ],
+    "photo": 12,
+    "photo2": 13,
+    "layout": 11,
+    "photo_key": "b00",
+    "photo2_key": "b00",
+    "custom_layout": 12,
+    "custom_theme": [
+      "#12090A",
+      "#FD3E35",
+      "#FFE1C5",
+      "#8A1D16"
+    ]
+  },
+  {
+    "id": 55,
+    "cat": "Towing",
+    "name": "Summit Roadside",
+    "headline": "Back on the road. Fast.",
+    "tag": "Tow Trucks & Roadside",
+    "slug": "summit-roadside",
+    "palette": [
+      9,
+      6,
+      4
+    ],
+    "photo": 13,
+    "photo2": 20,
+    "layout": 3,
+    "photo_key": "b00",
+    "photo2_key": "b00",
+    "custom_layout": 14,
+    "custom_theme": [
+      "#111128",
+      "#FF4F42",
+      "#F5F2FF",
+      "#4436AA"
+    ]
+  },
+  {
+    "id": 56,
+    "cat": "Med Spa",
+    "name": "Lumi\u00e8re Aesthetics",
+    "headline": "Beauty, beautifully considered.",
+    "tag": "Med Spa & Skin Treatments",
+    "slug": "lumi-re-aesthetics",
+    "palette": [
+      19,
+      15,
+      2
+    ],
+    "photo": 15,
+    "photo2": 19,
+    "layout": 7,
+    "photo_key": "a15",
+    "photo2_key": "a15",
+    "custom_layout": 0,
+    "custom_theme": [
+      "#29111A",
+      "#FB8F7B",
+      "#FCE6F5",
+      "#A34442"
+    ]
+  },
+  {
+    "id": 57,
+    "cat": "Dental",
+    "name": "Avenue Dental Studio",
+    "headline": "Smile more naturally.",
+    "tag": "Family & Cosmetic Dental",
+    "slug": "avenue-dental-studio",
+    "palette": [
+      8,
+      3,
+      19
+    ],
+    "photo": 7,
+    "photo2": 23,
+    "layout": 14,
+    "photo_key": "a07",
+    "photo2_key": "a07",
+    "custom_layout": 2,
+    "custom_theme": [
+      "#061A30",
+      "#1BB6FF",
+      "#E6F9FF",
+      "#1267C9"
+    ]
+  },
+  {
+    "id": 58,
+    "cat": "Gaming & Esports",
+    "name": "ClutchPoint Gaming",
+    "headline": "COMPETE. CLIMB. WIN.",
+    "tag": "XP Ladders \u00b7 Tournaments \u00b7 Competitive Gaming",
+    "slug": "clutchpoint-gaming",
+    "palette": [
+      0,
+      0,
+      0
+    ],
+    "photo": 12,
+    "photo2": 20,
+    "layout": 3,
+    "photo_key": null,
+    "photo2_key": null,
+    "custom_layout": 10,
+    "custom_theme": [
+      "#08080C",
+      "#F0B93F",
+      "#F6EAD6",
+      "#6A4B16"
+    ]
+  }
+]

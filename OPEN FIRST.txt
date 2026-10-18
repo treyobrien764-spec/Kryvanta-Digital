@@ -1,0 +1,12 @@
+KRYVANTA DIGITAL — V4
+
+1. Extract the ZIP file completely.
+2. Open the extracted Kryvanta-Custom-Portfolio-V4 folder.
+3. Double-click OPEN IN CHROME.html to open the homepage.
+4. Open work.html for the portfolio.
+
+Alternatively open the separate Kryvanta-Custom-Portfolio-PREVIEW.html to see a single self-contained portfolio preview.
+
+The portfolio features 58 original, unlinked visual designs using fictional brands, not commissioned real-world client work.
+
+The inquiry form must be activated and tested on hosting before launch.
