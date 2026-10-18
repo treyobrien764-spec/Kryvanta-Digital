@@ -1,4 +1,29 @@
 (() => {
+ // Optional business contact information. Hidden until you've configured it.
+ const business = window.KRYVANTA_PUBLIC_SETTINGS || {};
+ const displayPhone = (business.phone || '').trim();
+ const digits = displayPhone.replace(/[^\d+]/g, '');
+ if (/^\+?\d{10,15}$/.test(digits)) {
+   document.querySelectorAll('[data-business-phone-link]').forEach(link => {
+     link.href = 'tel:' + digits;
+     link.hidden = false;
+   });
+   document.querySelectorAll('[data-business-phone]').forEach(el => { el.textContent = displayPhone; });
+ }
+ const booking = (business.bookingUrl || '').trim();
+ try {
+   const destination = new URL(booking);
+   if (destination.protocol === 'https:' && /^(cal\.com|calendly\.com)$/.test(destination.hostname)) {
+     document.querySelectorAll('[data-calendar-booking]').forEach(link => {
+       link.href = destination.href;
+       link.hidden = false;
+     });
+     document.querySelectorAll('[data-booking-fallback]').forEach(el => { el.hidden = true; });
+     document.querySelectorAll('[data-booking-disclaimer]').forEach(el => {
+       el.textContent = 'Pick an available time using our secure scheduling page. Booking confirmation and availability are handled by our scheduling provider.';
+     });
+   }
+ } catch (err) { /* No scheduler URL added yet. Keep request-a-callback option. */ }
  const header = document.getElementById('header');
  const nav = document.getElementById('navigation');
  const button = document.querySelector('.menu-toggle');

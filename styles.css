@@ -23,3 +23,53 @@
 /* Persistent faint electric paths support static previews and reduced-motion mode. */
 .hero::before,.inner-hero::before,.last-cta::before{content:"";position:absolute;inset:0;pointer-events:none;z-index:0;background:url('assets/storm-lines.svg') right center / cover no-repeat;opacity:.67;mix-blend-mode:screen}
 @media(max-width:600px){.hero::before,.inner-hero::before,.last-cta::before{background-position:65% center;opacity:.35}}
+
+/* KRYVANTA REFINED TYPE + CONSULTATIONS */
+:root{--body-font:'DM Sans',Arial,Helvetica,sans-serif;--headline-font:'Manrope','DM Sans',Arial,sans-serif}
+body{font-family:var(--body-font);font-weight:400;letter-spacing:-.005em}
+h1,h2,h3,h4,.logo-type strong,.plan-price,.section-head h2,.heading-dark,.showroom-head h2{font-family:var(--headline-font)}
+.hero h1,.inner-hero h1,.section-head h2,.inner-work-intro h2,.faq-grid h2,.values-grid h2,.last-cta h2,.heading-dark{letter-spacing:-.055em;font-weight:800;line-height:1.095}
+.logo-type strong{font-family:var(--headline-font);letter-spacing:-.056em;font-weight:800}
+.nav a{font-family:var(--body-font);font-size:12px;letter-spacing:.015em;font-weight:700}
+.header-quote,.button,.button-outline{font-family:var(--body-font);font-weight:800;letter-spacing:.01em}
+.hero-lead,.body-dark,.inner-hero p,.schedule-copy p{font-weight:400;letter-spacing:0}
+.header-phone-link{font-size:12px;color:#bfdfff;white-space:nowrap;font-weight:750;display:inline-flex;align-items:center;gap:7px;margin-left:6px}
+.header-phone-link:hover,.footer-phone-link:hover{color:#7ddaff}
+.footer-booking-link,.footer-phone-link{font-size:12px;color:#b0d4ff;line-height:1.6;font-weight:700}
+[hidden]{display:none!important}
+.hero-call-note{font-size:11px;line-height:1.6;letter-spacing:.065em;color:#a6c4e6;margin:19px 0 0;font-weight:700}
+.hero-call-note a{color:#87d9ff;border-bottom:1px solid rgba(135,217,255,.5);padding-bottom:3px;margin-left:6px}
+.hero-call-note a:hover{color:#fff}
+.hero-call-star{color:#7cceff;margin-right:4px}
+.schedule-call-section{background:linear-gradient(135deg,#050915 0%,#081b38 52%,#030714 100%);border-top:1px solid #1b3e71;border-bottom:1px solid #1b3e71;position:relative;overflow:hidden;padding:92px 0 100px}
+.schedule-call-section:before{content:'';position:absolute;width:680px;height:680px;right:-250px;top:-210px;background:radial-gradient(circle,rgba(37,111,255,.18),transparent 68%);pointer-events:none}
+.schedule-call-layout{position:relative;display:grid;grid-template-columns:1.15fr .85fr;gap:70px;align-items:center}
+.schedule-copy h2{font-family:var(--headline-font);font-size:clamp(34px,4.2vw,59px);letter-spacing:-.059em;line-height:1.12;margin:22px 0 20px;font-weight:800;color:#f2faff}
+.schedule-copy h2 em{font-style:normal;color:#83d9ff}
+.schedule-copy>p:not(.schedule-disclaimer){max-width:600px;color:#c1d3ed;line-height:1.85;font-size:15px}
+.schedule-details{display:flex;gap:0;margin:32px 0 29px;border-top:1px solid #25466d;border-bottom:1px solid #25466d}
+.schedule-details span{display:flex;flex-direction:column;gap:6px;flex:1;padding:19px 15px 19px 0}
+.schedule-details span+span{padding-left:15px;border-left:1px solid #25466d}
+.schedule-details strong{font-size:12px;color:#f5faff;font-weight:800;letter-spacing:.015em}
+.schedule-details small{font-size:11px;color:#8facce}
+.schedule-buttons{display:flex;align-items:center;gap:18px;flex-wrap:wrap}
+.schedule-phone-link{font-size:12px;line-height:1.7;color:#bad5ff}
+.schedule-phone-link strong{color:#fff}
+.schedule-disclaimer{font-size:11px!important;color:#87a2c4!important;max-width:550px;line-height:1.7!important;margin-top:17px}
+.schedule-card{background:linear-gradient(145deg,#0a2140 0%,#071020 100%);border:1px solid #2c5c98;border-radius:16px;box-shadow:0 35px 90px #0009;overflow:hidden;transform:rotate(1.5deg)}
+.schedule-card-top{display:flex;justify-content:space-between;gap:10px;padding:20px 24px;border-bottom:1px solid #1c446e;font-size:10px;letter-spacing:.11em;color:#a7cdef;font-weight:800}
+.schedule-status{color:#9ae6ff}
+.schedule-card-art{height:180px;position:relative;display:grid;place-items:center;overflow:hidden;background:radial-gradient(circle at center,rgba(71,153,255,.25),transparent 63%)}
+.schedule-orbit{position:absolute;border:1px solid rgba(133,209,255,.24);width:300px;height:300px;border-radius:50%;transform:rotate(-20deg) scaleY(.43)}
+.schedule-orbit-two{width:220px;height:220px;border-color:rgba(133,209,255,.48);transform:rotate(27deg) scaleY(.5)}
+.schedule-bolt{font-size:80px;color:#83d5ff;text-shadow:0 0 45px #3085ff;transform:rotate(10deg)}
+.schedule-card-bottom{padding:0 30px 29px}
+.schedule-card-bottom small{font-size:10px;color:#85c3ff;letter-spacing:.14em;font-weight:800}
+.schedule-card-bottom h3{font-family:var(--headline-font);font-size:34px;line-height:1.2;letter-spacing:-.05em;margin:14px 0 13px;color:white}
+.schedule-card-bottom p{font-size:12px;line-height:1.7;color:#a8c4e2;margin:0}
+@media(max-width:1120px){.header-phone-link{display:none!important}.nav{gap:18px}}
+@media(max-width:850px){.schedule-call-layout{grid-template-columns:1fr;gap:32px}.schedule-card{max-width:580px;transform:none}.hero-call-note{margin-top:18px}}
+@media(max-width:600px){.schedule-call-section{padding:75px 0 80px}.schedule-copy h2{font-size:clamp(35px,9vw,48px)}.schedule-details{flex-wrap:wrap}.schedule-details span{min-width:33.33%;padding-right:10px}.schedule-details span+span{padding-left:11px}.schedule-details strong{font-size:10px}.schedule-details small{font-size:10px}.schedule-card-top{padding:17px}.schedule-card-bottom{padding:0 22px 25px}.schedule-card-art{height:150px}.schedule-copy>p:not(.schedule-disclaimer){font-size:13px}.hero-call-note{font-size:10px;letter-spacing:0}}
+
+.mobile-phone-link{display:none}
+@media(max-width:850px){.nav .mobile-phone-link:not([hidden]){display:block;color:#a9e4ff;border-top:1px solid rgba(140,211,255,.3);padding-top:14px}}
