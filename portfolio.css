@@ -147,3 +147,20 @@
 .showroom-catalog .category-arrows button{color:#f5faff;border-color:#4676a3}
 @media(max-width:700px){.showcase-tile{width:338px;height:263px}.showcase-tile img{height:173px}.showcase-tile:before{bottom:53px}.showcase-tile:after{bottom:48px}.showcase-tile-bar{margin-top:27px;height:42px}.showroom-catalog .rail-card{min-width:320px!important;width:320px!important}.showroom-catalog .rail-shot{height:204px!important}.showroom-catalog .rail-shot img{height:183px!important}.showroom-catalog .rail-shot:after{bottom:7px}.showroom-catalog .category-track{gap:16px!important}}
 @media(prefers-reduced-motion:reduce){.portfolio-marquee-track{animation:none!important;transform:none!important}.portfolio-marquee-row{overflow-x:auto}}
+
+/* BESPOKE FLAGSHIP MONITORS — real HTML/CSS layouts, not static template thumbnails.
+   Each iframe is non-interactive and loads only when close to the viewport. */
+.flagship-window{display:block;background:#121b29;position:relative;overflow:hidden;isolation:isolate}
+.flagship-window iframe{position:absolute;top:0;left:0;width:1400px;height:840px;border:0;max-width:none;max-height:none;transform-origin:0 0;pointer-events:none;display:block;background:#071321}
+.showroom-home .showcase-tile .flagship-window,.showroom-featured .showcase-tile .flagship-window{width:410px;height:246px;flex:none;border:9px solid #161c25;border-bottom:12px solid #161c25;border-radius:10px 10px 6px 6px;box-shadow:0 20px 36px #0007;z-index:3}
+.showroom-home .showcase-tile .flagship-window iframe,.showroom-featured .showcase-tile .flagship-window iframe{transform:scale(.28)}
+.showroom-catalog .rail-shot .flagship-window{position:absolute;inset:0;width:100%;height:100%}
+.showroom-catalog .rail-shot .flagship-window iframe{transform:scale(.287)}
+/* Crisp readable captions beneath the monitor feet */
+.showroom-catalog .rail-meta h3,.showroom-catalog .rail-meta p{color:#f4f7ff!important}
+.showroom-catalog .rail-meta span{color:#8bd7ff!important}
+@media(max-width:700px){
+  .showroom-home .showcase-tile .flagship-window,.showroom-featured .showcase-tile .flagship-window{width:288px;height:174px;border-width:6px;border-bottom-width:8px}
+  .showroom-home .showcase-tile .flagship-window iframe,.showroom-featured .showcase-tile .flagship-window iframe{transform:scale(.197)}
+  .showroom-catalog .rail-shot .flagship-window iframe{transform:scale(.196)}
+}
