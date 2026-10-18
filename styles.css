@@ -73,3 +73,13 @@ h1,h2,h3,h4,.logo-type strong,.plan-price,.section-head h2,.heading-dark,.showro
 
 .mobile-phone-link{display:none}
 @media(max-width:850px){.nav .mobile-phone-link:not([hidden]){display:block;color:#a9e4ff;border-top:1px solid rgba(140,211,255,.3);padding-top:14px}}
+
+/* Homepage without the NORTH/FORM device mockup: balanced full-width hero. */
+.hero-wrap{display:flex;align-items:center;justify-content:center;min-height:650px;max-width:1100px;text-align:center;padding-top:104px;padding-bottom:104px}
+.hero-copy{width:100%;max-width:1000px;margin:0 auto;padding-bottom:0}
+.hero .eyebrow.light,.hero-buttons,.hero-mini{justify-content:center}
+.hero h1{font-size:clamp(48px,6.2vw,94px);line-height:1.075;white-space:normal}
+.hero-lead{max-width:660px;margin:0 auto 30px}
+.hero-call-note{text-align:center}
+@media(max-width:850px){.hero-wrap{min-height:590px;padding-top:78px;padding-bottom:72px}.hero h1{font-size:clamp(45px,9vw,72px)}}
+@media(max-width:520px){.hero-wrap{min-height:540px;padding-top:66px;padding-bottom:58px}.hero h1{font-size:clamp(38px,10vw,55px)}.hero-lead{font-size:14px}}
