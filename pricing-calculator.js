@@ -3,8 +3,8 @@
 (()=>{'use strict';
 const packages={
  'Single Page':{price:99,pages:'1 page included'},
- 'Business':{price:199,pages:'Up to 3 pages included'},
- 'Professional':{price:399,pages:'Up to 5 pages included'},
+ 'Business':{price:199,pages:'Up to 5 pages included'},
+ 'Professional':{price:399,pages:'Up to 10 pages included'},
  'Custom':{price:999,pages:'Base page count and advanced features determined by your quote',custom:true}
 };
 const money=n=>'$'+n.toLocaleString('en-US');
