@@ -40,3 +40,8 @@
 @media(max-width:900px){.kd-head,.kd-work-hero{flex-direction:column;align-items:start}.kd-head-side,.kd-work-hero p{max-width:690px}.kd-grid{gap:16px}.kd-stats{gap:11px}.kd-stat{padding:22px 17px;min-height:145px}.kd-stars-stat{gap:8px}.kd-stars-stat img{width:40%}}
 @media(max-width:640px){.kd-section{padding:64px 0}.kd-head h2,.kd-work-hero h1{font-size:clamp(38px,9vw,56px)}.kd-stats{grid-template-columns:1fr;gap:10px;margin:20px 0 30px}.kd-stat{min-height:120px}.kd-stars-stat img{width:145px}.kd-grid{grid-template-columns:1fr;gap:16px}.kd-card-meta h3{font-size:23px}.kd-bottom-cta{flex-direction:column;align-items:start;padding:22px}.kd-bottom-cta a{white-space:normal}.kd-browser{margin:9px 9px 0}}
 @media(prefers-reduced-motion:reduce){.kd-site{transition:none}}
+
+/* Compact introduction after removing the oversized featured-portfolio headline. */
+.kd-home .kd-head-compact{align-items:center;gap:30px;margin-bottom:22px}
+.kd-home .kd-head-compact .kd-eyebrow{margin:0}
+@media(max-width:900px){.kd-home .kd-head-compact{align-items:flex-start;gap:16px}}
