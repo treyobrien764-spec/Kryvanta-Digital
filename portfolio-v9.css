@@ -12,3 +12,5 @@
 @media(max-width:900px){.showcase-tile>.kryvanta-v9-preview{height:calc(100% - 38px)}}
 @media(max-width:700px){.hero-stack>.kryvanta-v9-preview.v9-stack{width:65%}.hero-stack>.kryvanta-v9-preview.hero-stack-back{right:3%;top:0}.hero-stack>.kryvanta-v9-preview.hero-stack-mid{top:13%;right:33%}}
 @media(prefers-reduced-motion:reduce){.kryvanta-v9-preview iframe{transition:none}}
+/* Keep visual frames inside the signature cards, never over their captions. */
+.signature-visual{position:relative}
