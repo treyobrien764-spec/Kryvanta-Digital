@@ -1,0 +1,14 @@
+/* Renders bespoke coded previews in every Kryvanta portfolio monitor and catalog card. */
+.kryvanta-v9-preview{position:relative;display:block;width:100%;height:100%;overflow:hidden;isolation:isolate;background:radial-gradient(circle at 80% 20%,#133b60,#080f20 70%);pointer-events:none;contain:layout paint}
+.kryvanta-v9-preview:before{content:'LOADING DESIGN CONCEPT';position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:10px;letter-spacing:.16em;color:#9bdafa;font-weight:900;white-space:nowrap;opacity:.75}
+.kryvanta-v9-preview iframe{position:absolute;left:0;top:0;border:0;width:1440px;height:810px;max-width:none;max-height:none;transform-origin:top left;pointer-events:none;display:block;opacity:0;transition:opacity .2s}
+.kryvanta-v9-preview.v9-loaded iframe{opacity:1}
+.showcase-tile>.kryvanta-v9-preview{height:calc(100% - 43px)}
+.rail-shot>.kryvanta-v9-preview{position:absolute;inset:0;height:100%}
+.signature-visual>.kryvanta-v9-preview{position:absolute;inset:0;height:100%}
+.hero-stack>.kryvanta-v9-preview.v9-stack{position:absolute;width:77%;height:auto;aspect-ratio:1440/810;border-radius:7px;border:5px solid #dbe7f3;box-shadow:0 30px 80px #000a;overflow:hidden}
+.hero-stack>.kryvanta-v9-preview.hero-stack-back{top:5%;right:0;transform:perspective(650px) rotateY(-16deg) rotateZ(8deg);opacity:.87}
+.hero-stack>.kryvanta-v9-preview.hero-stack-mid{top:28%;right:22%;transform:perspective(650px) rotateY(-13deg) rotateZ(-11deg);opacity:.96}
+@media(max-width:900px){.showcase-tile>.kryvanta-v9-preview{height:calc(100% - 38px)}}
+@media(max-width:700px){.hero-stack>.kryvanta-v9-preview.v9-stack{width:65%}.hero-stack>.kryvanta-v9-preview.hero-stack-back{right:3%;top:0}.hero-stack>.kryvanta-v9-preview.hero-stack-mid{top:13%;right:33%}}
+@media(prefers-reduced-motion:reduce){.kryvanta-v9-preview iframe{transition:none}}
