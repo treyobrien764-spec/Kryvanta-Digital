@@ -164,3 +164,26 @@
   .showroom-home .showcase-tile .flagship-window iframe,.showroom-featured .showcase-tile .flagship-window iframe{transform:scale(.197)}
   .showroom-catalog .rail-shot .flagship-window iframe{transform:scale(.196)}
 }
+
+
+/* Kryvanta signature concepts: premium image-based visual studies; deliberately non-clickable */
+.signature-showcase{background:linear-gradient(130deg,#080c18,#0a1527 65%,#090b18);padding:94px 0 86px;border-top:1px solid #29436e;border-bottom:1px solid #243c5a}
+.signature-intro{display:flex;align-items:end;justify-content:space-between;gap:36px;margin-bottom:38px}
+.signature-intro>div{flex:1}.signature-intro>p{max-width:340px;font-size:14px;line-height:1.7;color:#b4c4d9}
+.signature-kicker{font-weight:850;letter-spacing:.17em;color:#77d4ff;font-size:10px}
+.signature-intro h2{font-family:var(--headline-font,Inter),Arial,sans-serif;font-weight:900;font-size:clamp(34px,4.5vw,67px);letter-spacing:-.065em;line-height:1.05;margin:20px 0 0;color:#eef7ff}
+.signature-intro h2 em{font-style:normal;color:#86dcff}
+.signature-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:21px}
+.signature-card{position:relative;min-width:0;overflow:hidden;border:1px solid #30405c;border-radius:16px;background:#111b2b;box-shadow:0 20px 50px #0005}
+.signature-card:before{content:"";position:absolute;inset:0 0 auto;height:4px;z-index:2;background:var(--signature-accent)}
+.signature-bronze{--signature-accent:#d4ac6c}.signature-cyan{--signature-accent:#02d5ff}.signature-gold{--signature-accent:#ffd82d}
+.signature-visual{aspect-ratio:16/9;background:#050914;overflow:hidden}
+.signature-visual img{display:block;width:100%;height:100%;object-fit:cover;object-position:top;image-rendering:auto}
+.signature-meta{padding:21px 21px 25px}
+.signature-meta>span{font-size:10px;letter-spacing:.12em;font-weight:850;color:var(--signature-accent)}
+.signature-meta i{padding:0 4px;font-style:normal}
+.signature-meta h3{font-size:clamp(21px,2.2vw,28px);letter-spacing:-.03em;color:#f8fbff;margin:13px 0 8px}
+.signature-meta p{font-size:12px;margin:0;color:#b0bfda}
+.signature-disclosure{font-size:11px;margin:25px 0 0;color:#8fa3c2;line-height:1.7}
+@media(max-width:980px){.signature-intro{align-items:start;flex-direction:column;gap:10px}.signature-intro>p{max-width:620px}.signature-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:650px){.signature-showcase{padding:60px 0}.signature-grid{grid-template-columns:1fr;gap:17px}.signature-intro h2{font-size:clamp(32px,8vw,47px)}.signature-meta{padding:19px}.signature-disclosure{margin-top:20px}}
