@@ -1,15 +1,6 @@
 (() => {
- // Optional business contact information. Hidden until you've configured it.
+ // Public scheduling configuration. Phone number display intentionally disabled.
  const business = window.KRYVANTA_PUBLIC_SETTINGS || {};
- const displayPhone = (business.phone || '').trim();
- const digits = displayPhone.replace(/[^\d+]/g, '');
- if (/^\+?\d{10,15}$/.test(digits)) {
-   document.querySelectorAll('[data-business-phone-link]').forEach(link => {
-     link.href = 'tel:' + digits;
-     link.hidden = false;
-   });
-   document.querySelectorAll('[data-business-phone]').forEach(el => { el.textContent = displayPhone; });
- }
  const booking = (business.bookingUrl || '').trim();
  try {
    const destination = new URL(booking);
