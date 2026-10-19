@@ -1,0 +1,33 @@
+
+/* Kryvanta Digital — self-contained responsive price estimator */
+.pricing-calculator{margin:46px 0 12px;background:linear-gradient(125deg,#06152b 5%,#0a1e3e 75%,#112a51);color:#f1f7ff;border:1px solid rgba(120,195,255,.35);border-radius:20px;box-shadow:0 28px 65px #010d2370;padding:36px}
+.pricing-calculator-header{display:flex;justify-content:space-between;gap:35px;align-items:center;margin-bottom:32px}
+.pricing-calculator-eyebrow{font-size:11px;letter-spacing:.17em;color:#81dbff;font-weight:900}
+.pricing-calculator h3{font-size:clamp(30px,4vw,54px);font-weight:900;line-height:1.06;letter-spacing:-.06em;margin:12px 0}
+.pricing-calculator h3 em{color:#8ddfff;font-style:normal}
+.pricing-calculator-header p{font-size:14px;color:#bfccdf;line-height:1.7;max-width:530px;margin:0}
+.pricing-addon-rate{text-align:center;padding:17px 24px;background:#79d9ff0b;border:1px solid #74d7ff7a;border-radius:12px;min-width:186px}
+.pricing-addon-rate strong{display:block;font-size:40px;color:#98e6ff;font-weight:900;letter-spacing:-.06em}
+.pricing-addon-rate span{font-size:10px;letter-spacing:.12em;line-height:1.6;color:#e8f9ff;font-weight:850}
+.pricing-calculator-layout{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,.95fr);gap:23px}
+.pricing-calculator-options{background:#091a35;border:1px solid #2e517a;padding:26px;border-radius:13px}
+.pricing-calculator-options label{display:block;font-size:13px;font-weight:850;margin:0 0 12px}
+.pricing-calculator-options select{width:100%;background:#152945;color:#fff;border:1px solid #5b83b0;border-radius:8px;min-height:51px;padding:12px;font-size:15px;cursor:pointer}
+.pricing-calculator-included{font-size:12px;color:#90bbd8;margin:10px 0 26px}
+.pricing-page-stepper{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.pricing-page-stepper button{width:46px;height:46px;border:1px solid #66c4ff;border-radius:8px;background:#18375c;color:#f6fbff;font-size:25px;line-height:1;cursor:pointer}
+.pricing-page-stepper button:disabled{opacity:.4;cursor:not-allowed}
+.pricing-page-stepper input{width:72px;height:46px;text-align:center;color:white;background:#172842;border:1px solid #6180a5;border-radius:8px;font-weight:850;font-size:19px}
+.pricing-page-stepper>span{font-size:12px;color:#b7cce3;letter-spacing:.02em;margin-left:7px}
+.pricing-calculator-total{background:linear-gradient(142deg,#1a4582,#102c57);border:1px solid #428bc6;padding:26px;border-radius:13px}
+.pricing-calculator-total>span{font-size:11px;font-weight:900;letter-spacing:.16em;color:#b5e8ff}
+.pricing-calculator-total output{display:block;margin:13px 0 20px;font-size:clamp(39px,5vw,65px);line-height:1;letter-spacing:-.06em;font-weight:900;color:#fff}
+.pricing-calculator-breakdown{border-top:1px solid #ffffff35;padding:12px 0}
+.pricing-calculator-breakdown div{display:flex;justify-content:space-between;gap:18px;padding:7px 0;font-size:13px;color:#d4e5f7}
+.pricing-calculator-breakdown b{color:#fff;white-space:nowrap}
+.pricing-calculator-total p{font-size:11px;color:#c7dcf2;line-height:1.6;margin:5px 0 15px}
+.pricing-calculator-cta{display:block;text-decoration:none;text-align:center;border-radius:8px;background:#82dcff;color:#061b32!important;padding:17px 16px;font-size:13px;font-weight:900;letter-spacing:.06em}
+.contact-price-preview{padding:14px 16px;background:#eaf5fc;border-left:3px solid #176da6;border-radius:4px;color:#183e60;font-size:14px;line-height:1.5}
+@media(max-width:800px){.pricing-calculator{padding:25px}.pricing-calculator-header{align-items:start;flex-direction:column}.pricing-calculator-layout{grid-template-columns:1fr}.pricing-addon-rate{text-align:left;display:flex;align-items:center;gap:15px;min-width:0}.pricing-addon-rate strong{font-size:33px}.pricing-addon-rate span{font-size:10px}}
+@media(max-width:520px){.pricing-calculator{padding:18px;border-radius:12px}.pricing-calculator-options,.pricing-calculator-total{padding:19px}.pricing-calculator h3{font-size:clamp(30px,9vw,43px)}.pricing-page-stepper{gap:10px}.pricing-page-stepper>span{margin-left:0}}
+@media(prefers-reduced-motion:reduce){.pricing-calculator *{scroll-behavior:auto}}
